@@ -22,10 +22,9 @@ Date Received: 9 May 1990
 
 - **dataset**
   - `diabetes.csv`: The dataset file.
-- **scripts**
-  - `diabetes_analysis.py`: The Python script containing the analysis and model training code.
-  - `diabetes_analysis.ipynb`: The Jupyter Notebook with the same contents as the Python script.
-
+- **code**
+  - `diabetes_analysis.ipynb`: The Jupyter Notebook containing the analysis and model training code.
+  - 
 ## Installation
 
 1. Clone the repository:
@@ -42,11 +41,7 @@ Date Received: 9 May 1990
 
 ## Usage
 
-1. Running the Python script:
-   Execute `diabetes_analysis.py` using your preferred IDE or terminal. Ensure the dataset file is in the same folder as the script.
-
-2. Using the Jupyter Notebook:
-   Open `diabetes_analysis.ipynb` in Jupyter Notebook or Jupyter Lab and run the cells to execute the analysis. Ensure the dataset file is in the same folder as the notebook.
+Open `diabetes_analysis.ipynb` in Jupyter Notebook or JupyterLab and run the cells to perform the analysis. Make sure the dataset file is located in the same folder as the notebook. Alternatively, you can use the Google Colab link provided below to open the file.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokuramoto/diabetes-ml/blob/main/diabetes_analysis.ipynb)
 
