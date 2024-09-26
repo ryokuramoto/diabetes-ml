@@ -48,6 +48,8 @@ Date Received: 9 May 1990
 2. Using the Jupyter Notebook:
    Open `diabetes_analysis.ipynb` in Jupyter Notebook or Jupyter Lab and run the cells to execute the analysis. Ensure the dataset file is in the same folder as the notebook.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokuramoto/diabetes-ml/blob/main/notebooks/diabetes_analysis.ipynb)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
