@@ -24,7 +24,7 @@ Date Received: 9 May 1990
   - `diabetes.csv`: The dataset file.
 - **code**
   - `diabetes_analysis.ipynb`: The Jupyter Notebook containing the analysis and model training code.
-  - 
+
 ## Installation
 
 1. Clone the repository:
