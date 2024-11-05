@@ -49,9 +49,3 @@ Open `diabetes_analysis.ipynb` in Jupyter Notebook or JupyterLab and run the cel
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any inquiries or support, please contact:
-
-Ryo Kuramoto - [ryoh.kuramoto@rknewtech.com](mailto:ryoh.kuramoto@rknewtech.com)
-
